@@ -1,0 +1,51 @@
+Delivered-To: Leeor@masterschool.com
+Received: by 10.140.178.13 with SMTP id a13cs354079rvf;
+        Thursday, 24 Nov 2022 20:05:05 -0800 (PST)
+Received: by 10.151.44.15 with SMTP id w15mr2254748ybj.98.1227326704711;
+        Thursday, 24 Nov 2022 20:05:04 -0800 (PST)
+Received: from mail11.tpgi.com.au (mail11.tpgi.com.au [194.25.134.80])
+        by mx.google.com with ESMTP id 10si5117885gxk.81.2022.11.21.20.05.03;
+        Thursday, 24 Nov 2022 20:05:04 -0800 (PST)
+Received-SPF: neutral (google.com: 194.25.134.80 is neither permitted nor denied by domain of g.corp.sender@gmail.com) client-ip=194.25.134.80;
+Return-Path: <g.corp.sender@gmail.com>
+Authentication-Results: mx.google.com; spf=neutral (google.com: 194.25.134.80 is neither permitted nor denied by domain of g.corp.sender@gmail.com) smtp.mail=g.corp.sender@gmail.com
+X-TPG-Junk-Status: Message not scanned
+X-TPG-Antivirus: Passed
+Flag: Masterschool{You_Found_Me}
+Received: from [194.25.134.80] (60-241-138-146.static.tpgi.com.au [60.0.0.146])
+	by mail11.tpgi.com.au (envelope-from g.corp.sender@gmail.com) (8.14.3/8.14.3) with ESMTP id mAM44xew022221
+	for <Leeor@masterschool.com>; Thursday, 24 Nov 2022 15:05:01 +1100
+Message-Id: <6B7EC235-5B17-4CA8-B2B8-39290DEB43A3@test.lindsaar.net>
+Subject: Black Friday early access
+From: Mikel <g.corp.sender@gmail.com>
+To: Leeor G <Leeor@masterschool.com>
+Content-Type: multipart/mixed; boundary="00000000000060bd0105ee882e94"
+
+--00000000000060bd0105ee882e94
+Content-Type: multipart/alternative; boundary="00000000000060bcfe05ee882e92"
+--00000000000060bcfe05ee882e92
+Content-Type: text/plain; charset="UTF-8"
+Hey Leeor,
+Mikel from Google is here.
+You have been chosen to get early access to our black Friday sale
+This PDF is limited! No time to waste
+Or visit our website: https://store.google.com/collection/offers?hl=en-US
+<http://006.zzz.com.ua/>
+Mikel from Google
+--00000000000060bcfe05ee882e92
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hey Leeor,<br>Mikel from Google is here.<br>You have been =
+chosen to get early access to our black Friday sale<br>This PDF is limited!=
+ No time to waste<br>Or visit our website:=C2=A0<a href=3D"http://006.zzz.com.ua/" target=3D"_blank">https://store.google.com/collection/offers?hl=3De=
+n-US</a><div>Mikel from Google</div></div>
+
+--00000000000060bcfe05ee882e92--
+--00000000000060bd0105ee882e94
+Content-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document; name="Black Friday early access.docx"
+Content-Disposition: attachment; filename="Black Friday early access.docx"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_lb0unn2t0
+Content-ID: <f_lb0unn2t0>
+--00000000000060bd0105ee882e94--
